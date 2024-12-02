@@ -1,0 +1,8 @@
+langchain
+langchain_community
+streamlit
+openai
+gtts
+pygame
+requests
+python-dotenv
